@@ -7,40 +7,37 @@
 					<!-- Logo desktop -->		
 					<a href="{{url('')}}/" class="logo">
 						<img src="{{url('')}}/images/logo_tulisan.png" alt="IMG-LOGO">
-						{{-- <h2 class="ltext-70 cl2 p-t-19 p-b-43 respon1">
-							GRAHA PRATAMA FISH
-						</h2> --}}
 					</a>
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
 						<ul class="main-menu">
-							<li class="active-menu">
+							<li class="{{$selected_header == 1 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/">Home</a>
 							</li>
 
-							<li>
+							<li class="{{$selected_header == 2 ? 'active-menu' : ''}}">
 								<a href="#">Profil Perusahaan</a>
 								<ul class="sub-menu">
 									<li><a href="{{url('')}}/history">Sejarah</a></li>
-									<li><a href="{{url('')}}/visionmission">Visi Misi</a></li>
+									<li><a href="{{url('')}}/vision-mission">Visi Misi</a></li>
 									<li><a href="{{url('')}}/founder">Founder</a></li>
 								</ul>
 							</li>
 
-							<li>
+							<li class="{{$selected_header == 3 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/product">Produk</a>
 							</li>
 
-							<li>
+							<li class="{{$selected_header == 4 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/blog-list">Blog</a>
 							</li>
 
-							<li>
+							<li class="{{$selected_header == 5 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/award">Penghargaan</a>
 							</li>
 
-							<li>
+							<li class="{{$selected_header == 6 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/contact">Hubungi Kami</a>
 							</li>
 						</ul>
@@ -54,11 +51,11 @@
 							</div>
 						</div>
 							
-						<div class="flex-c-m h-full p-l-18 p-r-25 bor5">
+						{{--<div class="flex-c-m h-full p-l-18 p-r-25 bor5">
 							<div class="icon-header-item cl2 hov-cl1 trans-04 p-lr-11 icon-header-noti js-show-cart" data-notify="2">
 								<i class="zmdi zmdi-shopping-cart"></i>
 							</div>
-						</div>
+						</div> --}}
 							
 						<div class="flex-c-m h-full p-lr-19">
 							<div class="icon-header-item cl2 hov-cl1 trans-04 p-lr-11 js-show-sidebar">

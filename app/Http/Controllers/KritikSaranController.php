@@ -16,4 +16,12 @@ class KritikSaranController extends Controller
     	$kritik_saran->save();
     	return back();
     }
+
+    public function get_kritik_saran()
+    {
+    	$kritik_saran = KritikSaran::get();
+    	$this->data['selected_header'] = 0;
+    	$this->data['kritik_saran'] = $kritik_saran;
+    	return view('page.kritik_saran', $this->data);
+    }
 }

@@ -13,6 +13,8 @@ class ProductController extends Controller
 {
     public function get_product($jenis_produk = null)
     {
+        $this->data['selected_header'] = 3;
+
     	$this->data['product1'] = Product1::all();
     	$this->data['product1modal'] = $this->data['product1'];
     	$this->data['product1script'] = $this->data['product1'];
@@ -33,10 +35,6 @@ class ProductController extends Controller
     	$this->data['product5modal'] = $this->data['product5'];
     	$this->data['product5script'] = $this->data['product5'];
         return view('page.product', $this->data);
-
-        if($jenis_produk != Null) {
-            $this->data['active'] = $jenis_produk;
-        }
     }
 
 }

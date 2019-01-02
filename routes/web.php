@@ -2,18 +2,14 @@
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes
+| Creator : Tosca Yoel Connery
 |--------------------------------------------------------------------------
 |
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
+| This website is dedicated for Kampung Patin, Desa Koto Masjid
+| XIII Koto Kampar, Kampar, Riau Province
+| 
 |
 */
-
-// Route::get('/', function () {
-//     return view('welcome');
-// });
 
 Route::get('/', 'SiteController@get_index');
 Route::get('/index', 'SiteController@get_index');
@@ -30,4 +26,6 @@ Route::get('/vision-mission', 'SiteController@get_vision_mission');
 
 Route::get('/founder', 'SiteController@get_founder');
 
-Route::post('/kritik_saran', 'KritikSaranController@post_kritik_saran');
+Route::post('/kritik-saran', 'KritikSaranController@post_kritik_saran');
+
+Route::get('/lihat-kritik-saran', 'KritikSaranController@get_kritik_saran');
