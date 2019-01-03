@@ -22,6 +22,12 @@
 						</a>
 					</li>
 
+					<li class="p-b-13">
+						<a href="{{url('')}}/lihat-kritik-saran" class="stext-102 cl2 hov-cl1 trans-04">
+							Tambahkan Blog
+						</a>
+					</li>
+
 					{{-- <li class="p-b-13">
 						<a href="#" class="stext-102 cl2 hov-cl1 trans-04">
 							My Wishlist

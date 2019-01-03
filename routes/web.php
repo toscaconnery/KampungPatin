@@ -20,6 +20,12 @@ Route::get('/contact', 'SiteController@get_contact');
 
 Route::get('/blog-list', 'BlogController@get_blog_list');
 
+Route::get('/blog/{id}', 'BlogController@get_blog');
+
+Route::post('/berikan-komentar-blog', 'BlogController@berikan_komentar_blog');
+
+Route::get('/tambahkan-blog', 'BlogController@tambahkan_blog');
+
 Route::get('/history', 'SiteController@get_history');
 
 Route::get('/vision-mission', 'SiteController@get_vision_mission');
