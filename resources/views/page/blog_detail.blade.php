@@ -150,14 +150,14 @@
 									<span class="cl12 m-l-4 m-r-6">|</span>
 								</span>
 
-								<span>
-									{{-- StreetStyle, Fashion, Couple   --}}
+								{{-- <span>
+									StreetStyle, Fashion, Couple  
 									<span class="cl12 m-l-4 m-r-6">|</span>
 								</span>
 
 								<span>
-									{{-- 8 Comments --}}
-								</span>
+									8 Comments
+								</span> --}}
 							</span>
 
 							<h4 class="ltext-109 cl2 p-b-28">

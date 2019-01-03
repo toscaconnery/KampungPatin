@@ -15,6 +15,7 @@ class BlogController extends Controller
 
     public function get_blog_list()
     {
+    	$this->data['blog_list'] = Blog::select('judul', 'foto', 'created_at', 'konten', 'id')->paginate(2);
     	return view('page.blog_list', $this->data);
     }
 
