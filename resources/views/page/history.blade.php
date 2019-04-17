@@ -36,11 +36,21 @@
 								Sejarah Berdirinya Kampung Patin
 							</h4>
 							<p class="stext-117 cl6 p-b-26">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.
+								Koto Mesjid merupakan salah satu desa yang ada di Kecamatan XIII Koto Kampar, Kabupaten Kampar, Provinsi Riau. Desa Koto Mesjid memiliki julukan sebagai Kampung Patin, dikarenakan potensi yang luar biasa yang dimiliki Koto Mesjid dalam bidang perikanan, khususnya ikan patin. Di Koto Mesjid, terdapat 776 kolam ikan, di mana semua kolam luasnya mencapai 42 hektare, dengan jumlah produksi perhari 3—4 ton ikan patin.
 							</p>
+
 							<p class="stext-117 cl6 p-b-26">
-								Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate
+								Selain menghasilkan ikan patin hidup, Desa Koto Mesjid juga mengolah ikan patin menjadi salai (ikan asap), kerupuk, dan nugget. Desa ini juga menghasilkan dan menjual bibit ikan patin, mesin pelet, dan pelet. Direncanakan, di desa ini akan dibangun sentra pengolahan ikan patin seluas 3 hektare. Di desa ini terdapat 250 UMKM yang bergerak dibidang perikanan patin. Untuk usaha di bidang perikanan, sebenarnya sudah dimulai sejak tahun 1998.
 							</p>
+
+							<p class="stext-117 cl6 p-b-26">
+								Pada tahun 2008, usaha sektor perikanan mengalami kemajuan dan memberikan “warna” tersendiri bagi desa Koto Mesjid. Dengan adanya budidaya ikan patin, kini Kabupaten Kampar, Riau dikenal sebagai penghasil ikan patin terbesar di Sumatera. Desa Koto Mesjid yang letaknya di Kecamatan XIII Koto Kampar dikenal dengan julukan “Kampung Patin” dan mengusung motto “Tiada Rumah Tanpa Kolam Ikan”. Lebih dari 700 kolam dengan luas 50 ha kini disulap menjadi kolam ikan patin. 
+							</p>
+
+							<p class="stext-117 cl6 p-b-26">
+								Dari budidaya ini, sedikitnya menghasilkan sebanyak 60 ton ikan patin perbulannya.  Pengelolaannya dilakukan oleh anggota UKM dan pemasarannya dilakukan langsung ke pelanggan, terdiri dari pelanggan lokal, luar kabupaten, luar provinsi, bahkan juga diekspor ke Malaysia dan Singapura. 
+							</p>
+
 						</div>
 
 						<div class="wrap-pic-w how-pos5-parent">

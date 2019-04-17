@@ -16,18 +16,18 @@
 
 				{{-- content --}}
 
-				<div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-03.jpg);">
+				<div class="item-slick1" style="background-image: url({{url('')}}/images/aerial2.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30">
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
-								<span class="ltext-202 cl2 respon2">
-									Produksi ikan
+								<span class="ltext-202 cl2 respon2" style="color: white;">
+									Desa Koto Masjid
 								</span>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
-								<h2 class="ltext-104 cl2 p-t-19 p-b-43 respon1">
-									Patin segar
+								<h2 class="ltext-104 cl2 p-t-19 p-b-43 respon1" style="color: white;">
+									Kampung Patin
 								</h2>
 							</div>
 								
@@ -40,7 +40,7 @@
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-02.jpg);">
+				<!-- <div class="item-slick1" style="background-image: url({{url('')}}/images/patin1.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30">
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
@@ -62,9 +62,9 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 
-				{{-- <div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-02.jpg);">
+				<!-- <div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-02.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30">
 							<div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="0">
@@ -86,9 +86,9 @@
 							</div>
 						</div>
 					</div>
-				</div> --}}
+				</div> -->
 
-				{{-- <div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-04.jpg);">
+				<!-- <div class="item-slick1" style="background-image: url({{url('')}}/coza/images/slide-04.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30">
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
@@ -110,7 +110,7 @@
 							</div>
 						</div>
 					</div>
-				</div> --}}
+				</div> -->
 
 			</div>
 		</div>
@@ -124,13 +124,13 @@
 			<div class="size-202 m-lr-auto respon4">
 				<!-- Block1 -->
 				<div class="block1 wrap-pic-w">
-					<img src="{{url('')}}/coza/images/banner-04.jpg" alt="IMG-BANNER">
+					<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BANNER">
 					<a href="{{url('')}}/product/product1" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 						<div class="block1-txt-child1 flex-col-l">
-							<span class="block1-name ltext-102 trans-04 p-b-8">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: white">
 								Pembenihan Ikan Patin
 							</span>
-							<span class="block1-info stext-102 trans-04">
+							<span class="block1-info stext-102 trans-04" style="color: white">
 								UPR. Graha Pratama Fish
 							</span>
 						</div>
@@ -146,13 +146,13 @@
 			<div class="size-202 m-lr-auto respon4">
 				<!-- Block1 -->
 				<div class="block1 wrap-pic-w">
-					<img src="{{url('')}}/coza/images/banner-05.jpg" alt="IMG-BANNER">
+					<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BANNER">
 					<a href="{{url('')}}/product/product2" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 						<div class="block1-txt-child1 flex-col-l">
-							<span class="block1-name ltext-102 trans-04 p-b-8">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: white">
 								Pakan Ikan Patin
 							</span>
-							<span class="block1-info stext-102 trans-04">
+							<span class="block1-info stext-102 trans-04" style="color: white">
 								Graha Feed Fish
 							</span>
 						</div>
@@ -168,13 +168,13 @@
 			<div class="size-202 m-lr-auto respon4">
 				<!-- Block1 -->
 				<div class="block1 wrap-pic-w">
-					<img src="{{url('')}}/coza/images/banner-06.jpg" alt="IMG-BANNER">
+					<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BANNER">
 					<a href="{{url('')}}/product/product3" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 						<div class="block1-txt-child1 flex-col-l">
-							<span class="block1-name ltext-102 trans-04 p-b-8">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: white">
 								Budidaya Ikan
 							</span>
-							<span class="block1-info stext-102 trans-04">
+							<span class="block1-info stext-102 trans-04" style="color: white">
 								Graha Fish Farm
 							</span>
 						</div>
@@ -190,13 +190,13 @@
 			<div class="size-202 m-lr-auto respon4">
 				<!-- Block1 -->
 				<div class="block1 wrap-pic-w">
-					<img src="{{url('')}}/coza/images/banner-06.jpg" alt="IMG-BANNER">
+					<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BANNER">
 					<a href="{{url('')}}/product/product4" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 						<div class="block1-txt-child1 flex-col-l">
-							<span class="block1-name ltext-102 trans-04 p-b-8">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: white">
 								Olahan Ikan
 							</span>
-							<span class="block1-info stext-102 trans-04">
+							<span class="block1-info stext-102 trans-04" style="color: white">
 								Negeri Patin Food
 							</span>
 						</div>
@@ -212,13 +212,13 @@
 			<div class="size-202 m-lr-auto respon4">
 				<!-- Block1 -->
 				<div class="block1 wrap-pic-w">
-					<img src="{{url('')}}/coza/images/banner-06.jpg" alt="IMG-BANNER">
+					<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BANNER">
 					<a href="{{url('')}}/product/product5" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 						<div class="block1-txt-child1 flex-col-l">
-							<span class="block1-name ltext-102 trans-04 p-b-8">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: white">
 								Pusat Pelatihan Perikanan
 							</span>
-							<span class="block1-info stext-102 trans-04">
+							<span class="block1-info stext-102 trans-04" style="color: white">
 								Pusat Pelatihan Mandiri Kelautan Perikanan (P2MKP) GRAHA MINA MANDIRI
 							</span>
 						</div>

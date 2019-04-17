@@ -86,6 +86,22 @@
 						</div>
 					</div>
 
+					<div class="flex-w w-full p-b-42">
+						<span class="fs-18 cl5 txt-center size-211">
+							<span class="lnr lnr-envelope"></span>
+						</span>
+
+						<div class="size-212 p-t-2">
+							<span class="mtext-110 cl2">
+								Whatsapp
+							</span>
+
+							<p class="stext-115 cl1 size-213 p-t-18">
+								<a href="https://wa.me/628127530830?text=Saya%20ingin%20tanya%20lebih%20lanjut%20tentang%20kampung%20patin">0812 7530 830</a>
+							</p>
+						</div>
+					</div>
+
 					<div class="flex-w w-full">
 						<span class="fs-18 cl5 txt-center size-211">
 							<span class="lnr lnr-envelope"></span>

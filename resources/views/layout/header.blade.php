@@ -13,7 +13,7 @@
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li class="{{$selected_header == 1 ? 'active-menu' : ''}}">
-								<a href="{{url('')}}/">Home</a>
+								<a href="{{url('')}}/">Beranda</a>
 							</li>
 
 							<li class="{{$selected_header == 2 ? 'active-menu' : ''}}">
@@ -39,6 +39,10 @@
 
 							<li class="{{$selected_header == 6 ? 'active-menu' : ''}}">
 								<a href="{{url('')}}/contact">Hubungi Kami</a>
+							</li>
+
+							<li class="{{$selected_header == 7 ? 'active-menu' : ''}}">
+								<a href="{{url('')}}/forum">F.A.Q</a>
 							</li>
 						</ul>
 					</div>	
