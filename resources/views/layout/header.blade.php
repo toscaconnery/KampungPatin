@@ -19,14 +19,14 @@
 							<li class="{{$selected_header == 2 ? 'active-menu' : ''}}">
 								<a href="#">Profil Perusahaan</a>
 								<ul class="sub-menu">
-									<li><a href="{{url('')}}/history">Sejarah</a></li>
-									<li><a href="{{url('')}}/vision-mission">Visi Misi</a></li>
-									<li><a href="{{url('')}}/founder">Founder</a></li>
+									<li><a href="{{url('')}}/sejarah">Sejarah</a></li>
+									<li><a href="{{url('')}}/visi_misi">Visi Misi</a></li>
+									<li><a href="{{url('')}}/pendiri">Pendiri</a></li>
 								</ul>
 							</li>
 
 							<li class="{{$selected_header == 3 ? 'active-menu' : ''}}">
-								<a href="{{url('')}}/product">Produk</a>
+								<a href="{{url('')}}/produk">Produk</a>
 							</li>
 
 							<li class="{{$selected_header == 4 ? 'active-menu' : ''}}">
@@ -38,7 +38,7 @@
 							</li>
 
 							<li class="{{$selected_header == 6 ? 'active-menu' : ''}}">
-								<a href="{{url('')}}/contact">Hubungi Kami</a>
+								<a href="{{url('')}}/hubungi_kami">Hubungi Kami</a>
 							</li>
 
 							<li class="{{$selected_header == 7 ? 'active-menu' : ''}}">

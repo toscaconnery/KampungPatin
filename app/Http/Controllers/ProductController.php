@@ -11,7 +11,7 @@ use App\Models\Product5;
 
 class ProductController extends Controller
 {
-    public function get_product($jenis_produk = null)
+    public function produk($jenis_produk = null)
     {
         $this->data['selected_header'] = 3;
 
@@ -34,7 +34,7 @@ class ProductController extends Controller
     	$this->data['product5'] = Product5::all();
     	$this->data['product5modal'] = $this->data['product5'];
     	$this->data['product5script'] = $this->data['product5'];
-        return view('page.product', $this->data);
+        return view('page.produk', $this->data);
     }
 
 }

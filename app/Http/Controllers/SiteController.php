@@ -19,22 +19,22 @@ class SiteController extends Controller
     	return view('page.contact', $this->data);
     }
 
-    public function get_history()
+    public function sejarah()
     {
         $this->data['selected_header'] = 2;
-        return view('page.history', $this->data);
+        return view('page.sejarah', $this->data);
     }
 
-    public function get_vision_mission()
+    public function visi_misi()
     {
         $this->data['selected_header'] = 2;
-        return view('page.vision_mission', $this->data);
+        return view('page.visi_misi', $this->data);
     }
 
-    public function get_founder()
+    public function pendiri()
     {
         $this->data['selected_header'] = 2;
-    	return view('page.founder', $this->data);
+    	return view('page.pendiri', $this->data);
     }
 
     public function get_award()

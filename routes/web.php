@@ -2,7 +2,8 @@
 
 /*
 |--------------------------------------------------------------------------
-| Creator : Tosca Yoel Connery
+| Tosca Yoel Connery
+| toscayoelconnery@gmail.com
 |--------------------------------------------------------------------------
 |
 | This website is dedicated for Kampung Patin, Desa Koto Masjid
@@ -15,9 +16,9 @@ Route::get('/', 'SiteController@get_index');
 Route::get('/index', 'SiteController@get_index');
 Route::get('/home', 'SiteController@get_index');
 
-Route::get('/produk/{jenis_produk?}', 'ProductController@get_product');
+Route::get('/produk/{jenis_produk?}', 'ProductController@produk');
 
-Route::get('/contact', 'SiteController@get_contact');
+Route::get('/hubungi_kami', 'SiteController@get_contact');
 
 Route::get('/blog-list', 'BlogController@get_blog_list');
 
@@ -27,12 +28,13 @@ Route::post('/berikan_komentar_blog', 'BlogController@berikan_komentar_blog');
 
 Route::get('/tambahkan_blog', 'BlogController@tambahkan_blog');
 
-Route::get('/history', 'SiteController@get_history');
-
-Route::get('/visi_misi', 'SiteController@get_vision_mission');
-
-Route::get('/founder', 'SiteController@get_founder');
+// Profil perusahaan
+Route::get('/sejarah', 'SiteController@sejarah');
+Route::get('/visi_misi', 'SiteController@visi_misi');
+Route::get('/pendiri', 'SiteController@pendiri');
 
 Route::post('/kritik_saran', 'KritikSaranController@post_kritik_saran');
 
 Route::get('/lihat_kritik_saran', 'KritikSaranController@get_kritik_saran');
+
+Route::get('/faq', 'FaqController@faq_index');

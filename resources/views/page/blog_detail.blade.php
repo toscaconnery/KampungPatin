@@ -99,7 +99,7 @@
 
 	<!-- breadcrumb -->
 	<div class="container">
-		<div class="bread-crumb flex-w p-l-25 p-r-15 p-t-30 p-lr-0-lg">
+		<div class="bread-crumb flex-w p-r-15 p-t-30 p-lr-0-lg">
 			<a href="index.html" class="stext-109 cl8 hov-cl1 trans-04">
 				Home
 				<i class="fa fa-angle-right m-l-9 m-r-10" aria-hidden="true"></i>
@@ -118,12 +118,18 @@
 
 
 	<!-- Content page -->
-	<section class="bg0 p-t-52 p-b-20">
+	<section class="bg0 p-t-10 p-b-20">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-lg-9 p-b-80">
 					<div class="p-r-45 p-r-0-lg">
 						<!--  -->
+						<div class="p-t-10">
+							<h4 class="ltext-109 cl2 p-b-28">
+								{{$judul}}
+							</h4>
+						</div>
+
 						<div class="wrap-pic-w how-pos5-parent">
 							<img src="{{url('')}}/{{$foto}}" alt="IMG-BLOG">
 
@@ -141,7 +147,7 @@
 						<div class="p-t-32">
 							<span class="flex-w flex-m stext-111 cl2 p-b-19">
 								<span>
-									<span class="cl4">By</span> Admin  
+									<span class="cl4">By</span> {{$kreator}}
 									<span class="cl12 m-l-4 m-r-6">|</span>
 								</span>
 
@@ -149,54 +155,27 @@
 									{{date_format($tanggal_lengkap, "d M Y")}}
 									<span class="cl12 m-l-4 m-r-6">|</span>
 								</span>
-
-								{{-- <span>
-									StreetStyle, Fashion, Couple  
-									<span class="cl12 m-l-4 m-r-6">|</span>
-								</span>
-
-								<span>
-									8 Comments
-								</span> --}}
 							</span>
 
-							<h4 class="ltext-109 cl2 p-b-28">
-								{{$judul}}
-							</h4>
-
-							<p class="stext-117 cl6 p-b-26">
-								{{$konten}}
+							<p class="ptext-117 cl6 p-b-26">
+								<?php print_r($konten); ?>
 							</p>
 						</div>
 
-						<div class="flex-w flex-t p-t-16">
-							<span class="size-216 stext-116 cl8 p-t-4">
-								Tags
-							</span>
-
-							<div class="flex-w size-217">
-								@foreach($tag as $t)
-									<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-										{{$t}}
-									</a>
-								@endforeach
-							</div>
-						</div>
 
 
-						<!--  -->
-						<div class="p-t-40">
-							<h5 class="mtext-113 cl2 p-b-12">
+						<div class="p-t-40 p-b-10">
+							<h5 class="mtext-113 cl2 p-b-5">
 								Komentar
 							</h5>
 
 							@if($punya_komentar == False)
-								<p class="stext-107 cl6 p-b-40">
+								<p class="stext-107 cl6 p-b-10">
 									Belum ada komentar di blog ini. Anda bisa jadi orang pertama yang memberikan komentar.
 								</p>
 							@else
 								@foreach($komentar as $k)
-								<p class="stext-107 cl6 p-b-40" style="padding-bottom: 5px;">
+								<p class="stext-107 cl6 p-b-10" style="padding-bottom: 5px;">
 									<b>{{$k->nama}}</b> : {{$k->komentar}} <font style="color: #c9c9c9">(<i>{{date_format($k->created_at, "d-m-Y H:i:s")}}</i>)</font>
 								</p>
 								@endforeach
@@ -205,12 +184,12 @@
 
 
 						<!--  -->
-						<div class="p-t-40">
-							<h5 class="mtext-113 cl2 p-b-12">
+						<div class="p-t-10">
+							<h5 class="mtext-113 cl2 p-b-5">
 								Berikan komentar
 							</h5>
 
-							<p class="stext-107 cl6 p-b-40">
+							<p class="stext-107 cl6 p-b-10">
 								Beritahu kami tanggapan Anda tentang konten ini. Alamat email tidak akan dipublikasikan.
 							</p>
 
@@ -239,55 +218,10 @@
 
 				<div class="col-md-4 col-lg-3 p-b-80">
 					<div class="side-menu">
-						<div class="bor17 of-hidden pos-relative">
-							<input class="stext-103 cl2 plh4 size-116 p-l-28 p-r-55" type="text" name="search" placeholder="Search">
 
-							<button class="flex-c-m size-122 ab-t-r fs-18 cl4 hov-cl1 trans-04">
-								<i class="zmdi zmdi-search"></i>
-							</button>
-						</div>
-
-						<div class="p-t-55">
+						<div class="p-t-75">
 							<h4 class="mtext-112 cl2 p-b-33">
-								Categories
-							</h4>
-
-							<ul>
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Fashion
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Beauty
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Street Style
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Life Style
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										DIY & Crafts
-									</a>
-								</li>
-							</ul>
-						</div>
-
-						<div class="p-t-65">
-							<h4 class="mtext-112 cl2 p-b-33">
-								Featured Products
+								Produk Unggulan
 							</h4>
 
 							<ul>
@@ -343,7 +277,7 @@
 
 						<div class="p-t-55">
 							<h4 class="mtext-112 cl2 p-b-20">
-								Archive
+								Arsip
 							</h4>
 
 							<ul>

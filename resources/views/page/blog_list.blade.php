@@ -25,7 +25,6 @@
 					<div class="p-r-45 p-r-0-lg">
 
 						@foreach($blog_list as $b)
-						<!-- item blog -->
 						<div class="p-b-63">
 							<a href="{{url('')}}/blog/{{$b->id}}" class="hov-img0 how-pos5-parent">
 								<img src="{{url('')}}/{{$b->foto}}" alt="IMG-BLOG">
@@ -141,7 +140,7 @@
 							<ul>
 								<li class="flex-w flex-t p-b-30">
 									<a href="#" class="wrao-pic-w size-214 hov-ovelay1 m-r-20">
-										<img src="{{url('')}}/coza/images/product-min-01.jpg" alt="PRODUCT">
+										<img src="{{url('')}}/coza/images/product-min-02.jpg" alt="PRODUCT">
 									</a>
 
 									<div class="size-215 flex-col-t p-t-8">

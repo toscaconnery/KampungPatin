@@ -17,6 +17,7 @@ class CreateBlogTable extends Migration
             $table->increments('id');
             $table->string('judul');
             $table->text('konten');
+            $table->string('kreator');
             $table->string('foto')->nullable();
             $table->string('tag')->nullable();
             $table->timestamps();

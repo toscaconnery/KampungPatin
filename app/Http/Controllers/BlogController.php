@@ -29,6 +29,7 @@ class BlogController extends Controller
     	$this->data['id_blog'] = $blog->id;
     	$this->data['judul'] = $blog->judul;
     	$this->data['konten'] = $blog->konten;
+        $this->data['kreator'] = $blog->kreator;
     	$this->data['foto'] = $blog->foto;
     	$tag = explode(';', $blog->tag);
     	$this->data['tag'] = array();

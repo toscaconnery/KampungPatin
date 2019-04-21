@@ -262,7 +262,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="{{url('')}}/coza/images/product-01.jpg" alt="IMG-PRODUCT">
+							<img src="{{url('')}}/images/fish_pellets2.jpg" alt="IMG-PRODUCT">
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal-product1-{{$p->id}}">
 								Quick View
 							</a>
@@ -292,7 +292,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="{{url('')}}//coza/images/product-02.jpg" alt="IMG-PRODUCT">
+							<img src="{{url('')}}/images/bibit_ikan.jpg" alt="IMG-PRODUCT">
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal-product2-{{$p->id}}">
 								Quick View
 							</a>
@@ -322,7 +322,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="{{url('')}}//coza/images/product-03.jpg" alt="IMG-PRODUCT">
+							<img src="{{url('')}}/images/ikan_potong.jpg" alt="IMG-PRODUCT">
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal-product3-{{$p->id}}">
 								Quick View
 							</a>
@@ -352,7 +352,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="{{url('')}}//coza/images/product-04.jpg" alt="IMG-PRODUCT">
+							<img src="{{url('')}}/images/stock_ikan_1.jpg" alt="IMG-PRODUCT">
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal-product4-{{$p->id}}">
 								Quick View
 							</a>
@@ -382,7 +382,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="{{url('')}}//coza/images/product-05.jpg" alt="IMG-PRODUCT">
+							<img src="{{url('')}}/images/patin1.jpg" alt="IMG-PRODUCT">
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal-product5-{{$p->id}}">
 								Quick View
 							</a>
