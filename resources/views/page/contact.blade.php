@@ -22,10 +22,10 @@
 		<div class="container">
 			<div class="flex-w flex-tr">
 				<div class="size-210 bor10 p-lr-70 p-t-55 p-b-70 p-lr-15-lg w-full-md">
-					<form method="post" action="{{url('')}}/kritik-saran">
+					<form method="post" action="{{url('')}}/send-message">
 						{{ csrf_field() }}
 						<h4 class="mtext-105 cl2 txt-center p-b-30">
-							Kritik dan Saran
+							Kirim pesan ke kami
 						</h4>
 
 						<div class="bor8 m-b-20 how-pos4-parent">

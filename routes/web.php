@@ -18,9 +18,10 @@ Route::get('/home', 'SiteController@get_index');
 
 Route::get('/produk/{jenis_produk?}', 'ProductController@produk');
 
-Route::get('/hubungi_kami', 'SiteController@get_contact');
+Route::get('/contact-us', 'SiteController@get_contact_us');
+Route::get('/contact-us2', 'SiteController@get_contact_us2');
 
-Route::get('/blog-list', 'BlogController@get_blog_list');
+Route::get('/daftar_blog', 'BlogController@get_blog_list');
 
 Route::get('/blog/{id}', 'BlogController@get_blog');
 
@@ -38,3 +39,8 @@ Route::post('/kritik_saran', 'KritikSaranController@post_kritik_saran');
 Route::get('/lihat_kritik_saran', 'KritikSaranController@get_kritik_saran');
 
 Route::get('/faq', 'FaqController@faq_index');
+
+
+///// NEW
+Route::get('/index2', 'SiteController@index2');
+Route::get('/index2-landing', 'SiteController@index2_landing');

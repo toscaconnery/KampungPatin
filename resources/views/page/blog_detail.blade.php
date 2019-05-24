@@ -100,12 +100,12 @@
 	<!-- breadcrumb -->
 	<div class="container">
 		<div class="bread-crumb flex-w p-r-15 p-t-30 p-lr-0-lg">
-			<a href="index.html" class="stext-109 cl8 hov-cl1 trans-04">
+			<a href="{{url('')}}" class="stext-109 cl8 hov-cl1 trans-04">
 				Home
 				<i class="fa fa-angle-right m-l-9 m-r-10" aria-hidden="true"></i>
 			</a>
 
-			<a href="blog.html" class="stext-109 cl8 hov-cl1 trans-04">
+			<a href="{{url('')}}/daftar_blog" class="stext-109 cl8 hov-cl1 trans-04">
 				Blog
 				<i class="fa fa-angle-right m-l-9 m-r-10" aria-hidden="true"></i>
 			</a>
@@ -176,7 +176,7 @@
 							@else
 								@foreach($komentar as $k)
 								<p class="stext-107 cl6 p-b-10" style="padding-bottom: 5px;">
-									<b>{{$k->nama}}</b> : {{$k->komentar}} <font style="color: #c9c9c9">(<i>{{date_format($k->created_at, "d-m-Y H:i:s")}}</i>)</font>
+									<b class="cl1">{{$k->nama}}</b> : {{$k->komentar}} <font style="color: #c9c9c9">(<i>{{date_format($k->created_at, "d-m-Y H:i:s")}}</i>)</font>
 								</p>
 								@endforeach
 							@endif
@@ -193,7 +193,7 @@
 								Beritahu kami tanggapan Anda tentang konten ini. Alamat email tidak akan dipublikasikan.
 							</p>
 
-							<form method="post" action="{{url('')}}/berikan-komentar-blog">
+							<form method="post" action="{{url('')}}/berikan_komentar_blog">
 								{{ csrf_field() }}
 								<input type="hidden" name="id_blog" value="{{$id_blog}}">
 								<div class="bor19 m-b-20">
@@ -205,7 +205,7 @@
 								</div>
 
 								<div class="bor19 size-218 m-b-20">
-									<input class="stext-111 cl2 plh3 size-116 p-lr-18" type="text" name="email" placeholder="Email *" required oninvalid="this.setCustomValidity('Silahkan masukkan email Anda disini, email Anda tidak akan dipublikasikan.')" oninput="this.setCustomValidity('')">
+									<input class="stext-111 cl2 plh3 size-116 p-lr-18" type="email" name="email" placeholder="Email *" required oninvalid="this.setCustomValidity('Pastikan Anda memasukkan alamat email yang valid, data ini tidak akan ditampilkan.')" oninput="this.setCustomValidity('')">
 								</div>
 
 								<button type="submit" class="flex-c-m stext-101 cl0 size-125 bg3 bor2 hov-btn3 p-lr-15 trans-04">

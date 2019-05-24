@@ -30,7 +30,7 @@
 							</li>
 
 							<li class="{{$selected_header == 4 ? 'active-menu' : ''}}">
-								<a href="{{url('')}}/blog-list">Blog</a>
+								<a href="{{url('')}}/daftar_blog">Blog</a>
 							</li>
 
 							<li class="{{$selected_header == 5 ? 'active-menu' : ''}}">
@@ -38,7 +38,7 @@
 							</li>
 
 							<li class="{{$selected_header == 6 ? 'active-menu' : ''}}">
-								<a href="{{url('')}}/hubungi_kami">Hubungi Kami</a>
+								<a href="{{url('')}}/contact-us">Hubungi Kami</a>
 							</li>
 
 							<li class="{{$selected_header == 7 ? 'active-menu' : ''}}">

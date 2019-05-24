@@ -13,10 +13,16 @@ class SiteController extends Controller
     	return view('page.index', $this->data);
     }
 
-    public function get_contact()
+    public function get_contact_us()
     {
         $this->data['selected_header'] = 6;
     	return view('page.contact', $this->data);
+    }
+
+    public function get_contact_us2()
+    {
+        $this->data['selected_header'] = 6;
+        return view('page.contact2', $this->data);
     }
 
     public function sejarah()
@@ -40,5 +46,15 @@ class SiteController extends Controller
     public function get_award()
     {
     	return view('page.award');
+    }
+
+    public function index2()
+    {
+        return view('page.shards-index');
+    }
+
+    public function index2_landing()
+    {
+        return view('page.shards-index-landing');
     }
 }

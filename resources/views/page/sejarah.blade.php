@@ -11,9 +11,9 @@
 
 	<!-- breadcrumb -->
 	<div class="container">
-		<div class="bread-crumb flex-w p-l-25 p-r-15 p-t-30 p-lr-0-lg" style="padding-left: 0">
-			<a href="index.html" class="stext-109 cl8 hov-cl1 trans-04">
-				Profil Perusahaan
+		<div class="bread-crumb flex-w p-r-15 p-t-30 p-lr-0-lg">
+			<a href="{{url('')}}" class="stext-109 cl8 hov-cl1 trans-04">
+				Home
 				<i class="fa fa-angle-right m-l-9 m-r-10" aria-hidden="true"></i>
 			</a>
 
@@ -25,36 +25,36 @@
 
 
 	<!-- Content page -->
-	<section class="bg0 p-t-52 p-b-20" style="padding-top: 0">
+	<section class="bg0 p-t-10 p-b-20">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-lg-9 p-b-80">
 					<div class="p-r-45 p-r-0-lg">
 
-						<div class="p-t-32">
+						<div class="p-t-10">
 							<h4 class="ltext-109 cl2 p-b-28">
 								Sejarah Berdirinya Kampung Patin
 							</h4>
 							<p class="ptext-117 cl6 p-b-26">
-								Koto Mesjid merupakan salah satu desa yang ada di Kecamatan XIII Koto Kampar, Kabupaten Kampar, Provinsi Riau. Desa Koto Mesjid memiliki julukan sebagai Kampung Patin, dikarenakan potensi yang luar biasa yang dimiliki Koto Mesjid dalam bidang perikanan, khususnya ikan patin. Di Koto Mesjid, terdapat 776 kolam ikan, di mana semua kolam luasnya mencapai 42 hektare, dengan jumlah produksi perhari 3—4 ton ikan patin.
+								K Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 							</p>
 
 							<p class="ptext-117 cl6 p-b-26">
-								Selain menghasilkan ikan patin hidup, Desa Koto Mesjid juga mengolah ikan patin menjadi salai (ikan asap), kerupuk, dan nugget. Desa ini juga menghasilkan dan menjual bibit ikan patin, mesin pelet, dan pelet. Direncanakan, di desa ini akan dibangun sentra pengolahan ikan patin seluas 3 hektare. Di desa ini terdapat 250 UMKM yang bergerak dibidang perikanan patin. Untuk usaha di bidang perikanan, sebenarnya sudah dimulai sejak tahun 1998.
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 							</p>
 
 							<p class="ptext-117 cl6 p-b-26">
-								Pada tahun 2008, usaha sektor perikanan mengalami kemajuan dan memberikan “warna” tersendiri bagi desa Koto Mesjid. Dengan adanya budidaya ikan patin, kini Kabupaten Kampar, Riau dikenal sebagai penghasil ikan patin terbesar di Sumatera. Desa Koto Mesjid yang letaknya di Kecamatan XIII Koto Kampar dikenal dengan julukan “Kampung Patin” dan mengusung motto “Tiada Rumah Tanpa Kolam Ikan”. Lebih dari 700 kolam dengan luas 50 ha kini disulap menjadi kolam ikan patin. 
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 							</p>
 
 							<p class="ptext-117 cl6 p-b-26">
-								Dari budidaya ini, sedikitnya menghasilkan sebanyak 60 ton ikan patin perbulannya.  Pengelolaannya dilakukan oleh anggota UKM dan pemasarannya dilakukan langsung ke pelanggan, terdiri dari pelanggan lokal, luar kabupaten, luar provinsi, bahkan juga diekspor ke Malaysia dan Singapura. 
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 							</p>
 
 						</div>
 
 						<div class="wrap-pic-w how-pos5-parent">
-							<img src="{{url('')}}/coza/images/blog-03.jpg" alt="IMG-BLOG">
+							<img src="{{url('')}}/images/stock_ikan_2.jpg" alt="IMG-BLOG">
 						</div>
 						
 						<div class="p-t-32">
@@ -82,55 +82,10 @@
 
 				<div class="col-md-4 col-lg-3 p-b-80">
 					<div class="side-menu">
-						<div class="bor17 of-hidden pos-relative">
-							<input class="stext-103 cl2 plh4 size-116 p-l-28 p-r-55" type="text" name="search" placeholder="Search">
 
-							<button class="flex-c-m size-122 ab-t-r fs-18 cl4 hov-cl1 trans-04">
-								<i class="zmdi zmdi-search"></i>
-							</button>
-						</div>
-
-						<div class="p-t-55">
+						<div class="p-t-75">
 							<h4 class="mtext-112 cl2 p-b-33">
-								Categories
-							</h4>
-
-							<ul>
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Fashion
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Beauty
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Street Style
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Life Style
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										DIY & Crafts
-									</a>
-								</li>
-							</ul>
-						</div>
-
-						<div class="p-t-65">
-							<h4 class="mtext-112 cl2 p-b-33">
-								Featured Products
+								Produk Unggulan
 							</h4>
 
 							<ul>
@@ -186,7 +141,7 @@
 
 						<div class="p-t-55">
 							<h4 class="mtext-112 cl2 p-b-20">
-								Archive
+								Arsip
 							</h4>
 
 							<ul>
@@ -286,34 +241,6 @@
 									</a>
 								</li>
 							</ul>
-						</div>
-
-						<div class="p-t-50">
-							<h4 class="mtext-112 cl2 p-b-27">
-								Tags
-							</h4>
-
-							<div class="flex-w m-r--5">
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Fashion
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Lifestyle
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Denim
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Streetstyle
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Crafts
-								</a>
-							</div>
 						</div>
 					</div>
 				</div>
