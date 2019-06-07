@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Kampung Patinx</title>
+        <title>Kampung Patin</title>
         <link rel="icon" type="image/png" href="{{url('')}}/images/tab-logo.png">
         <meta name="description" content="A demo landing page for agencies or product oriented businesses built using Shards, a free, modern and lightweight UI toolkit based on Bootstrap 4.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,24 +30,24 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">Beranda <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="{{url('')}}/index2-landing">Beranda <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbar_profil_perusahaan" data-toggle="dropdown" aria-haspopup="true">Profil Perusahaan</a>
                   <div class="dropdown-menu" aria-labelledby="navbar_profil_perusahaan">
-                    <a class="dropdown-item" href="#">Sejarah</a>
-                    <a class="dropdown-item" href="#">Visi Misi</a>
-                    <a class="dropdown-item" href="#">Pendiri</a>
+                    <a class="dropdown-item" href="{{url('')}}/sejarah2">Sejarah</a>
+                    <a class="dropdown-item" href="{{url('')}}/visi-misi2">Visi Misi</a>
+                    <a class="dropdown-item" href="{{url('')}}/pendiri2">Pendiri</a>
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Produk</a>
+                  <a class="nav-link" href="#">Katalog Produk</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Penghargaan</a>
+                  <a class="nav-link" href="{{url('')}}/penghargaan2">Penghargaan</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Hubungi Kami</a>
@@ -81,7 +81,7 @@
           <div class="row">
             <div class="col-md-7">
                 <h1 class="welcome-heading display-4 text-white">Kampung Patin</h1>
-                <p class="text-white">Kampung Patin adalah sebutan untuk sebuah desa yang menjadi pusat budidaya ikan patin di Kabupaten Kampar, Provinsi Riau. Kampung ini juga menjadi pusat pelatihan pemberdayaan ikan patin di xxxxxxx. Dengan kemampuan menyediakan stok ikan patin sebanyak xx ton setiap tahunnya, kampung ini juga menyediakan berbagai produk olahan ikan patin yang lezat.</p>
+                <p class="text-white">Kampung Patin adalah sebutan untuk sebuah desa yang menjadi pusat budidaya ikan patin di Kabupaten Kampar, Provinsi Riau. Kampung ini juga menjadi pusat pelatihan pemberdayaan ikan patin di nnnnnn. Dengan kemampuan menyediakan stok ikan patin sebanyak nn ton setiap tahunnya, kampung ini juga menyediakan berbagai produk olahan ikan patin yang lezat.</p>
                 <a href="#daftar_produk" class="btn btn-lg btn-outline-white btn-pill align-self-center">Lihat Produk</a>
             </div>
           </div>
@@ -89,10 +89,6 @@
         <!-- / Inner Wrapper -->
       </div>
       <!-- / Welcome Section -->
-
-      <!-- Our Services Section -->
-      
-      <!-- / Our Services Section -->
 
       <!-- Our Blog Section -->
       <div id="daftar_produk" class="blog section section-invert py-4">
@@ -160,9 +156,113 @@
       </div>
       <!-- / Our Blog Section -->
 
+      <!-- Welcome Section -->
+      <div class="welcome2 d-flex justify-content-center flex-column">
+        <div class="container">
+          <!-- Navigation -->
+          <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
+            <a class="navbar-brand" href="#">
+              <img src="{{url('')}}/images/logo_tulisan.PNG" class="mr-2" style="height: 3em;" alt="Shards - Agency Landing Page">
+  
+            </a>
+            
+          </nav>
+          <!-- / Navigation -->
+        </div> <!-- .container -->
+
+        <!-- Inner Wrapper -->
+        <div class="inner-wrapper mt-auto mb-auto container">
+          <div class="row">
+            <div class="col-md-5"></div>
+            <div class="col-md-7">
+                <h1 class="welcome-heading display-4 text-white">Kampung Patin</h1>
+                <p class="text-white">Kampung Patin adalah sebutan untuk sebuah desa yang menjadi pusat budidaya ikan patin di Kabupaten Kampar, Provinsi Riau. Kampung ini juga menjadi pusat pelatihan pemberdayaan ikan patin di nnnnnn. Dengan kemampuan menyediakan stok ikan patin sebanyak nn ton setiap tahunnya, kampung ini juga menyediakan berbagai produk olahan ikan patin yang lezat.</p>
+                <a href="#daftar_produk" class="btn btn-lg btn-outline-white btn-pill align-self-center">Lihat Produk</a>
+            </div>
+          </div>
+        </div>
+        <!-- / Inner Wrapper -->
+      </div>
+      <!-- / Welcome Section -->
+
+      <!-- Welcome Section -->
+      <div class="welcome3 d-flex justify-content-center flex-column">
+        <div class="container">
+          <!-- Navigation -->
+          <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
+            <a class="navbar-brand" href="#">
+              <img src="{{url('')}}/images/logo_tulisan.PNG" class="mr-2" style="height: 3em;" alt="Shards - Agency Landing Page">
+  
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="{{url('')}}/index2-landing">Beranda <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbar_profil_perusahaan" data-toggle="dropdown" aria-haspopup="true">Profil Perusahaan</a>
+                  <div class="dropdown-menu" aria-labelledby="navbar_profil_perusahaan">
+                    <a class="dropdown-item" href="{{url('')}}/sejarah2">Sejarah</a>
+                    <a class="dropdown-item" href="{{url('')}}/visi-misi2">Visi Misi</a>
+                    <a class="dropdown-item" href="{{url('')}}/pendiri2">Pendiri</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Katalog Produk</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{url('')}}/penghargaan2">Penghargaan</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Hubungi Kami</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">F.A.Q</a>
+                </li>
+              </ul>
+
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="https://twitter.com/DesignRevision"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.facebook.com/designrevision"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://dribbble.com/hisk"><i class="fa fa-dribbble"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-github"></i></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          <!-- / Navigation -->
+        </div> <!-- .container -->
+
+        <!-- Inner Wrapper -->
+        <div class="inner-wrapper mt-auto mb-auto container">
+          <div class="row">
+            <div class="col-md-7">
+                <h1 class="welcome-heading display-4 text-white">Kampung Patin</h1>
+                <p class="text-white">Kampung Patin adalah sebutan untuk sebuah desa yang menjadi pusat budidaya ikan patin di Kabupaten Kampar, Provinsi Riau. Kampung ini juga menjadi pusat pelatihan pemberdayaan ikan patin di nnnnnn. Dengan kemampuan menyediakan stok ikan patin sebanyak nn ton setiap tahunnya, kampung ini juga menyediakan berbagai produk olahan ikan patin yang lezat.</p>
+                <a href="#daftar_produk" class="btn btn-lg btn-outline-white btn-pill align-self-center">Lihat Produk</a>
+            </div>
+          </div>
+        </div>
+        <!-- / Inner Wrapper -->
+      </div>
+      <!-- / Welcome Section -->
+
       <!-- Testimonials Section -->
       <div class="testimonials section py-4">
-          <h3 class="section-title text-center m-5">Testimonials</h3>
+          <h3 class="section-title text-center m-5">Testimoni</h3>
           <div class="container py-5">
             <div class="row">
                 <div class="col-md-4 testimonial text-center">
@@ -196,9 +296,84 @@
       </div>
       <!-- / Testimonials Section -->
 
+      <!-- Welcome Section -->
+      <div class="welcome3 d-flex justify-content-center flex-column">
+        <div class="container">
+          <!-- Navigation -->
+          <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
+            <a class="navbar-brand" href="#">
+              <img src="{{url('')}}/images/logo_tulisan.PNG" class="mr-2" style="height: 3em;" alt="Shards - Agency Landing Page">
+  
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="{{url('')}}/index2-landing">Beranda <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbar_profil_perusahaan" data-toggle="dropdown" aria-haspopup="true">Profil Perusahaan</a>
+                  <div class="dropdown-menu" aria-labelledby="navbar_profil_perusahaan">
+                    <a class="dropdown-item" href="{{url('')}}/sejarah2">Sejarah</a>
+                    <a class="dropdown-item" href="{{url('')}}/visi-misi2">Visi Misi</a>
+                    <a class="dropdown-item" href="{{url('')}}/pendiri2">Pendiri</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Katalog Produk</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Blog</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{url('')}}/penghargaan2">Penghargaan</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Hubungi Kami</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">F.A.Q</a>
+                </li>
+              </ul>
+
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="https://twitter.com/DesignRevision"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.facebook.com/designrevision"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://dribbble.com/hisk"><i class="fa fa-dribbble"></i></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://github.com/designrevision"><i class="fa fa-github"></i></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          <!-- / Navigation -->
+        </div> <!-- .container -->
+
+        <!-- Inner Wrapper -->
+        <div class="inner-wrapper mt-auto mb-auto container">
+          <div class="row">
+            <div class="col-md-7">
+                <h1 class="welcome-heading display-4 text-white">Kampung Patin</h1>
+                <p class="text-white">Kampung Patin adalah sebutan untuk sebuah desa yang menjadi pusat budidaya ikan patin di Kabupaten Kampar, Provinsi Riau. Kampung ini juga menjadi pusat pelatihan pemberdayaan ikan patin di nnnnnn. Dengan kemampuan menyediakan stok ikan patin sebanyak nn ton setiap tahunnya, kampung ini juga menyediakan berbagai produk olahan ikan patin yang lezat.</p>
+                <a href="#daftar_produk" class="btn btn-lg btn-outline-white btn-pill align-self-center">Lihat Produk</a>
+            </div>
+          </div>
+        </div>
+        <!-- / Inner Wrapper -->
+      </div>
+      <!-- / Welcome Section -->
+
       <!-- Contact Section -->
-      <div class="contact section-invert py-4">
-        <h3 class="section-title text-center m-5">Contact Us</h3>
+      <div class="welcome2 d-flex justify-content-center flex-column ">
+        <h3 class="section-title text-center m-5">Hubungi Kami</h3>
         <div class="container py-4">
           <div class="row justify-content-md-center px-4">
             <div class="contact-form col-sm-12 col-md-10 col-lg-7 p-4 mb-4 card">
@@ -206,26 +381,26 @@
                 <div class="row">
                   <div class="col-md-6 col-sm-12">
                     <div class="form-group">
-                      <label for="contactFormFullName">Full Name</label>
-                      <input type="email" class="form-control" id="contactFormFullName" placeholder="Enter your full name">
+                      <label for="contactFormFullName">Nama Lengkap</label>
+                      <input type="email" class="form-control" id="contactFormFullName" placeholder="Nama lengkap Anda">
                     </div>
                   </div>
                   <div class="col-md-6 col-sm-12">
                     <div class="form-group">
-                      <label for="contactFormEmail">Email address</label>
-                      <input type="email" class="form-control" id="contactFormEmail" placeholder="Enter your email address">
+                      <label for="contactFormEmail">Nomor Telepon / Email</label>
+                      <input type="email" class="form-control" id="contactFormEmail" placeholder="Kontak yang bisa dihubungi">
                     </div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col">
                     <div class="form-group">
-                        <label for="exampleInputMessage1">Message</label>
-                        <textarea id="exampleInputMessage1" class="form-control mb-4" rows="10" placeholder="Enter your message..." name="message"></textarea>
+                        <label for="exampleInputMessage1">Pesan</label>
+                        <textarea id="exampleInputMessage1" class="form-control mb-4" rows="10" placeholder="Silahkan berikan pesan Anda" name="message"></textarea>
                     </div>
                   </div>
                 </div>
-                <input class="btn btn-primary btn-pill d-flex ml-auto mr-auto" type="submit" value="Send Your Message">
+                <input class="btn btn-primary btn-pill d-flex ml-auto mr-auto" type="submit" value="Kirim Pesan">
               </form>
             </div>
           </div>
@@ -253,7 +428,7 @@
                   <a class="nav-link" href="#">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Testimonials</a>
+                  <a class="nav-link" href="#">Testimoni</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Contact Us</a>

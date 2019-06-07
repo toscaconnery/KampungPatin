@@ -151,6 +151,7 @@
   right: -5vw;
   top: -15%;
   background: #ffffff;
+  /* z-index: 0; */
   background: linear-gradient(to right, #ffffff 0%, #e2e7ef 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e2e7ef', GradientType=1);
 }
@@ -208,7 +209,7 @@
 .page-content {
   position: relative;
   background: #fafafa;
-  padding-top: 5.3125rem;
+  /* padding-top: 5.3125rem; */
 }
 
 .page-content:before {
@@ -473,5 +474,10 @@
 
 .main-footer a:hover {
   text-decoration: none;
+}
+
+.double-justify {
+  text-align: justify;
+  text-justify: inter-word;
 }
 /*# sourceMappingURL=shards-demo.css.map */

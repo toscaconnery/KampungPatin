@@ -57,4 +57,29 @@ class SiteController extends Controller
     {
         return view('page.shards-index-landing');
     }
+
+    public function sejarah2()
+    {
+        return view('page.shards-sejarah');
+    }
+
+    public function penghargaan2()
+    {
+        return view('page.shards-penghargaan');
+    }
+
+    public function visi_misi2()
+    {
+        return view('page.shards-visi-misi');
+    }
+
+    public function pendiri2()
+    {
+        return view('page.shards-pendiri');
+    }
+
+    public function visi_misi3()
+    {
+        return view('page.shards-visi-misi3');
+    }
 }

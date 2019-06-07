@@ -44,3 +44,8 @@ Route::get('/faq', 'FaqController@faq_index');
 ///// NEW
 Route::get('/index2', 'SiteController@index2');
 Route::get('/index2-landing', 'SiteController@index2_landing');
+Route::get('/sejarah2', 'SiteController@sejarah2');
+Route::get('/penghargaan2', 'SiteController@penghargaan2');
+Route::get('/visi-misi2', 'SiteController@visi_misi2');
+Route::get('/pendiri2', 'SiteController@pendiri2');
+Route::get('/visi-misi3', 'SiteController@visi_misi3');
