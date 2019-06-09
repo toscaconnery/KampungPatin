@@ -41,12 +41,15 @@
                 <!-- <i class="fab fa-instagram"></i> -->
                 <h2 class="">+628-1275-30830</h2>
                 <p class="text-muted col-lg-8 col-md-10 ml-auto mr-auto">atau langsung klik
-                  <b>
-                    <a href="https://api.whatsapp.com/send?phone=628127530830&text=&source=&data="><u> disini.
-                    </u>
+                  <b data-toggle="tooltip" data-placement="right" data-original-title="Whatsapp">
+                    <a href="https://api.whatsapp.com/send?phone=628127530830&text=&source=&data=">
+                      <u> disini.</u>
                     </a>
                   </b> 
                 </p>
+                <button type="button" class="btn btn-primary mr-1" data-toggle="tooltip" data-placement="right" title="" data-original-title="I'm on the right! 👉">
+                  Right
+                </button>
               </div>
             </div>
           </div>

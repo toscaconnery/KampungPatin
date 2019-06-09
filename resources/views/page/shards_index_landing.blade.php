@@ -125,56 +125,34 @@
             <div class="row">
                 <div class="col-md-4 testimonial text-center">
                     <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
-                        <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
+                        <img src="{{url('')}}/images/acs.png" class="w-100" alt="Testimonial Avatar" />
                     </div>
-                    <h5 class="mb-1">Garuda Indonesia</h5>
-                    <span class="text-muted d-block mb-2">2018 - Sekarang</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
+                    <h5 class="mb-1">Aerofood ACS</h5>
+                    <p>Penyedia Fish Fillet untuk penerbangan maskapai Garuda dari Kota Pekanbaru</p>
                 </div>
 
                 <div class="col-md-4 testimonial text-center">
                     <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
                         <img src="{{url('')}}/images/hotel_pangeran.jpg" class="w-100" alt="Testimonial Avatar" />
                     </div>
-                    <h5 class="mb-1">Hotel Pangeran</h5>
-                    <span class="text-muted d-block mb-2">2018</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
+                    <h5 class="mb-1">CV Fathan Jaya Pekanbaru</h5>
+                    <p>Produk Negeri Patin Food didistribusikan oleh CV Fathan Jaya Pekanbaru</p>
                 </div>
 
                 <div class="col-md-4 testimonial text-center">
                     <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
                         <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
                     </div>
-                    <h5 class="mb-1">Garuda Indonesia</h5>
-                    <span class="text-muted d-block mb-2">2018</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
+                    <h5 class="mb-1">CV Horeca Tiga Dara</h5>
+                    <p>Penyedia Fish Fillet untuk Hotel Pangeran, Hotel Grand Zuri dan Hotel Jatra</p>
                 </div>
 
                 <div class="col-md-4 testimonial text-center">
                     <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
-                        <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
+                        <img src="{{url('')}}/images/telkom.jpg" class="w-100" alt="Testimonial Avatar" />
                     </div>
-                    <h5 class="mb-1">Garuda Indonesia</h5>
-                    <span class="text-muted d-block mb-2">2018</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
-                </div>
-
-                <div class="col-md-4 testimonial text-center">
-                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
-                        <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
-                    </div>
-                    <h5 class="mb-1">Garuda Indonesia</h5>
-                    <span class="text-muted d-block mb-2">2018</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
-                </div>
-
-                <div class="col-md-4 testimonial text-center">
-                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
-                        <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
-                    </div>
-                    <h5 class="mb-1">Garuda Indonesia</h5>
-                    <span class="text-muted d-block mb-2">2018</span>
-                    <p>Penyedia Fish Fillet untuk penerbangan dari Kota Pekanbaru</p>
+                    <h5 class="mb-1">PT Telkom</h5>
+                    <p>Mitra</p>
                 </div>
 
             </div>

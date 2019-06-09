@@ -53,4 +53,5 @@ Route::get('/pemesanan2', 'SiteController@pemesanan2');
 Route::get('/produk-1', 'SiteController@produk_1');
 Route::get('/produk-2', 'SiteController@produk_2');
 Route::get('/produk-3', 'SiteController@produk_3');
+Route::get('/produk-4', 'SiteController@produk_4');
 Route::get('/produk-5', 'SiteController@produk_5');

@@ -103,6 +103,11 @@ class SiteController extends Controller
         return view('page.shards_produk_3');
     }
 
+    public function produk_4()
+    {
+        return view('page.shards_produk_4');
+    }
+
     public function produk_5()
     {
         return view('page.shards_produk_5');
