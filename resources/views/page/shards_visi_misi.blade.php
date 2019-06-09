@@ -75,8 +75,9 @@
         <!-- Inner Wrapper -->
         <div class="inner-wrapper mt-auto mb-auto container">
           <div class="row">
+            <div class="col-md-5"></div>
             <div class="col-md-7">
-                <h1 class="welcome-heading display-4 text-white">Product Development</h1>
+                <h1 class="welcome-heading display-4 text-white">Graha Pratama Fish</h1>
                 <p class="text-white">We can help you take your idea from concept to shipping using the latest technologies and best practices available.</p>
             </div>
           </div>
@@ -85,38 +86,7 @@
       </div>
       <!-- / Welcome Section -->
 
-      <!-- Footer Section -->
-      <footer>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-          <div class="container">
-            <a class="navbar-brand" href="#">Shards Agency</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Our Services</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Blog</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Testimonials</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contact Us</a>
-                </li>
-              </ul>
-            </div>
-
-          </div>
-        </nav>
-      </footer>
-      <!-- / Footer Section -->
+      @include('layout.shards_main_footer')
 
       <!-- JavaScript Dependencies -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

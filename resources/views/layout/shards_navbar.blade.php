@@ -24,7 +24,7 @@
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Katalog Produk</a>
+          <a class="nav-link" href="{{url('')}}/index2-landing#daftar_produk">Katalog Produk</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Blog</a>
@@ -33,7 +33,7 @@
           <a class="nav-link" href="{{url('')}}/penghargaan2">Penghargaan</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Hubungi Kami</a>
+          <a class="nav-link" href="{{url('')}}/pemesanan2">Pemesanan</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">F.A.Q</a>
@@ -42,28 +42,23 @@
 
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">
-            <i class="fa fa-twitter"></i>
+          <a class="nav-link" href="https://www.instagram.com/suhaimi_gpf/">
+            <i class="fa fa-instagram"></i>
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="https://web.facebook.com/suhaimi.grahapratamafish">
             <i class="fa fa-facebook"></i>
           </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">
-            <i class="fa fa-linkedin"></i>
+          <a class="nav-link" href="https://api.whatsapp.com/send?phone=628127530830&text=&source=&data=">
+            <i class="fa fa-whatsapp"></i>
           </a>
         </li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <i class="fa fa-github"></i>
-          </a>
-        </li>
       </ul>
     </div>
   </nav>

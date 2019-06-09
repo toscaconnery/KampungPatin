@@ -50,36 +50,61 @@ class SiteController extends Controller
 
     public function index2()
     {
-        return view('page.shards-index');
+        return view('page.shards_index');
     }
 
     public function index2_landing()
     {
-        return view('page.shards-index-landing');
+        return view('page.shards_index_landing');
     }
 
     public function sejarah2()
     {
-        return view('page.shards-sejarah');
+        return view('page.shards_sejarah');
     }
 
     public function penghargaan2()
     {
-        return view('page.shards-penghargaan');
+        return view('page.shards_penghargaan');
     }
 
     public function visi_misi2()
     {
-        return view('page.shards-visi-misi');
+        return view('page.shards_visi_misi');
     }
 
     public function pendiri2()
     {
-        return view('page.shards-pendiri');
+        return view('page.shards_pendiri');
     }
 
     public function visi_misi3()
     {
-        return view('page.shards-visi-misi3');
+        return view('page.shards_visi_misi3');
+    }
+
+    public function pemesanan2()
+    {
+        return view('page.shards_pemesanan2');
+    }
+
+    public function produk_1()
+    {
+        return view('page.shards_produk_1');
+    }
+
+    public function produk_2()
+    {
+        return view('page.shards_produk_2');
+    }
+
+    public function produk_3()
+    {
+        return view('page.shards_produk_3');
+    }
+
+    public function produk_5()
+    {
+        return view('page.shards_produk_5');
     }
 }

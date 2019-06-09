@@ -3834,6 +3834,10 @@ button.list-group-item-dark.active {
   padding: 1.875rem 2.1875rem;
 }
 
+.modal-image {
+  padding: 0;
+}
+
 .modal-footer {
   padding: 0.9375rem 2.1875rem;
   border-top: 1px solid #dfe1e3;
@@ -3858,6 +3862,13 @@ button.list-group-item-dark.active {
 @media (min-width: 992px) {
   .modal-lg {
     max-width: 800px;
+  }
+}
+
+@media (min-width: 992px) {
+  .modal-xl {
+    width: 90%;
+    max-width:1200px;
   }
 }
 

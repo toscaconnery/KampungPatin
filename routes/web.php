@@ -49,3 +49,8 @@ Route::get('/penghargaan2', 'SiteController@penghargaan2');
 Route::get('/visi-misi2', 'SiteController@visi_misi2');
 Route::get('/pendiri2', 'SiteController@pendiri2');
 Route::get('/visi-misi3', 'SiteController@visi_misi3');
+Route::get('/pemesanan2', 'SiteController@pemesanan2');
+Route::get('/produk-1', 'SiteController@produk_1');
+Route::get('/produk-2', 'SiteController@produk_2');
+Route::get('/produk-3', 'SiteController@produk_3');
+Route::get('/produk-5', 'SiteController@produk_5');
