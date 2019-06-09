@@ -34,36 +34,53 @@
               <div class="container">
                 <h3 class="section-title underline--left my-5">Penghargaan</h3>
                 <div class="feature py-4 d-flex">
-                  <div class="icon text-white bg-success mr-5"><i class="fa fa-refresh"></i></div>
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
                   <div>
-                      <h5>Penghargaan 1</h5>
-                      <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                      <h5 class="mb-0">Adi Bakti Mina Bahari Award 2010 dari Menteri KKP RI</h5>
+                      <p>Kategori Pembudidaya Ikan Terbaik Se-Indonesia.</p>
                   </div>
                 </div>
 
                 <div class="feature py-4 d-flex">
-                  <div class="icon text-white bg-success mr-5"><i class="fa fa-shield"></i></div>
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
                   <div>
-                      <h5>Penghargaan 2</h5>
-                      <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                      <h5 class="mb-0">Indonesia CSR Award 2011 dari Menteri Sosial RI</h5>
+                      <p>Terbaik-1 Kategori TIngkat Pelaku Mitra Usaha.</p>
                   </div>
                 </div>
 
                 <div class="feature py-4 d-flex">
-                  <div class="icon text-white bg-success mr-5"><i class="fa fa-share"></i></div>
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
                   <div>
-                      <h5>Penghargaan 3</h5>
-                      <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                      <h5 class="mb-0">Telkom CSR Award 2011 dari PT Telkom Indonesia</h5>
+                      <p>Terbaik-1 Kategori External Khusus.</p>
                   </div>
                 </div>
 
                 <div class="feature py-4 d-flex">
-                  <div class="icon text-white bg-success mr-5"><i class="fa fa-globe"></i></div>
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
                   <div>
-                      <h5>Penghargaan 4</h5>
-                      <p>Quisque mollis mi ac aliquet accumsan. Sed sed dapibus libero. Nullam luctus purus duis sensibus signiferumque.</p>
+                      <h5 class="mb-0">Adi Kriya Award 2013 dari Gubernur Riau</h5>
+                      <p>Terbaik-1 Kategori Pangan.</p>
                   </div>
                 </div>
+
+                <div class="feature py-4 d-flex">
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
+                  <div>
+                      <h5 class="mb-0">Indonesia Small & Medium Business Entrepreneur Award (ISMBEA) 2014</h5>
+                      <p>Terbaik-1 Penggerak Ekonomi Kawasan.</p>
+                  </div>
+                </div>
+
+                <div class="feature py-4 d-flex">
+                  <div class="icon text-white bg-success mr-5"><i class="fa fa-trophy"></i></div>
+                  <div>
+                      <h5 class="mb-0">Adi Bakti Mina Bahari Award 2015 dari Menteri KKP RI</h5>
+                      <p>Kategori P2MKP Terbaik-1 Se-Indonesia.</p>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>
