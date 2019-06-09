@@ -20,7 +20,7 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-2">
             <a class="dropdown-item" href="{{url('')}}/sejarah2">Sejarah</a>
             <a class="dropdown-item" href="{{url('')}}/visi-misi2">Visi Misi</a>
-            <a class="dropdown-item" href="#">Pendiri</a>
+            <a class="dropdown-item" href="{{url('')}}/pendiri2">Pendiri</a>
           </div>
         </li>
         <li class="nav-item">
