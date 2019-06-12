@@ -38,9 +38,8 @@
                 <div class="card mb-4">
                   <div class="card-body">
                     <h4 class="card-title">Produksi Ikan Patin Segar</h4>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Produk yang dihasilkan oleh Graha Fish Farm adalah ikan segar yang dapat digunakan untuk produk bahan baku usaha pengasapan ikan, untuk ukuran konsumsi pasar dan ukuran bahan baku pembuatan fillet ikan</p>
+                    <p>Apabila Graha Fish Farm berproduksi secara maksimal (intensif) maka produknya dapat menghasilkan ikan rata-rata 2 ton perhari atau sekitar 60 ton perbulan.</p>
                   </div>
                 </div>
               </div>

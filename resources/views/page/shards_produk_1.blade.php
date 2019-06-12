@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Kampung Patin</title>
+        <title>Graha Pratama Fish</title>
         <link rel="icon" type="image/png" href="{{url('')}}/images/tab-logo.png">
         <meta name="description" content="A demo landing page for agencies or product oriented businesses built using Shards, a free, modern and lightweight UI toolkit based on Bootstrap 4.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,9 +38,7 @@
                 <div class="card mb-4">
                   <div class="card-body">
                     <h4 class="card-title">Pembenihan Ikan Patin</h4>
-                    <p class="card-text">Pembenihan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Pembenihan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Pembenihan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Unit Pembenihan Rakyat Graha Pratama Fish merupakan usaha yang pertama pada grup usaha ini. Didirikan sejak tahun 2002 dan kini terus berkembang menjadi sebuah pembenihan yang tangguh dan bersertifikasi <b>CPIB (Cara Pembenihan Ikan Yang Baik)</b> yang berpredikat <b><i>excellent</i></b> (sempurna), dalam arti seluruh kegiatan pembenihan ini menerapkan kaidah-kaidah yang telah ditetapkan untuk sebuah pembenihan yang menerapkan CPIB.</p>
                   </div>
                 </div>
               </div>
@@ -50,31 +48,44 @@
                         <table class="table table-responsive-md">
                             <thead>
                                 <tr>
-                                    <th>Ukuran</th>
-                                    <th>Isi per box</th>
-                                    <th>Estimasi Panen</th>
+                                    <th>Produk</th>
+                                    <th>Isi per kemasan</th>
                                     <th>Harga</th>
+                                    <th>Stok Tersedia</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Larva</td>
                                     <td>4.000 ekor</td>
-                                    <td><i class="fa fa-clock-o"></i> 3 bulan</td>
                                     <td>Rp100.000,-</td>
+                                    <td>400.000</td>
                                 </tr>
                                 <tr>
-                                    <td>Benih 1 CM</td>
+                                    <td>Benih 3/4 Inc</td>
                                     <td>3.000 ekor</td>
-                                    <td><i class="fa fa-clock-o"></i> 2 bulan 2 minggu</td>
                                     <td>Rp100.000,-</td>
+                                    <td>300.000</td>
                                 </tr>
                                 <tr>
-                                    <td>Benih 2 CM</td>
+                                    <td>Benih 1 Inc</td>
                                     <td>1.000 ekor</td>
-                                    <td><i class="fa fa-clock-o"></i> 2 bulan 1 minggu</td>
                                     <td>Rp100.000,-</td>
+                                    <td>100.000</td>
                                 </tr>
+                                <tr>
+                                    <td>Hormon Ovaspec</td>
+                                    <td>1 botol</td>
+                                    <td>Rp100.000,-</td>
+                                    <td>50 kotak</td>
+                                </tr>
+                                <tr>
+                                    <td>Artemia</td>
+                                    <td>1 kaleng</td>
+                                    <td>Rp100.000,-</td>
+                                    <td>50 kaleng</td>
+                                </tr>
+                                
                             </tbody>
                         </table>
                     </div>
@@ -106,7 +117,7 @@
                 <div class="card mb-4">
                   <img class="card-img-top" src="{{url('')}}/images/crop/ikan_olahan_crop.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Benih 1 CM</h4>
+                    <h4 class="card-title">Benih 3/4 Inc</h4>
                     <p class="card-text">Olahan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>
@@ -117,7 +128,7 @@
                 <div class="card mb-4">
                   <img class="card-img-top" src="{{url('')}}/images/crop/training_center_crop.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Benih 2 CM</h4>
+                    <h4 class="card-title">Benih 1 Inc</h4>
                     <p class="card-text">Pusat pelatihan perikanan. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>

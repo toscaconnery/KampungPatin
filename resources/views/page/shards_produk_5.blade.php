@@ -21,7 +21,7 @@
 
       <!-- Our Blog Section -->
       <div id="daftar_produk" class="blog section section-invert py-4">
-        <h3 class="section-title text-center m-5">P2MKP</h3>
+        <h3 class="section-title text-center m-5">Pusat Pelatihan Perikanan P2MKP - Graha Mina Mandiri</h3>
 
         <div class="container">
           <div class="py-4">
@@ -30,7 +30,7 @@
               
               <div class="col-md-12 col-lg-8">
                 <div class="card mb-4">
-                  <img class="card-img" src="{{url('')}}/images/crop/training_center_crop.jpg" alt="Card image cap">
+                  <img class="card-img" src="{{url('')}}/images/p2mkp/suasana_pelatihan.jpg" alt="Card image cap">
                 </div>
               </div>
 
@@ -38,9 +38,8 @@
                 <div class="card mb-4">
                   <div class="card-body">
                     <h4 class="card-title">Pusat Pelatihan Mandiri Kelautan Dan Perikanan</h4>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi ikan patin segar. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p>Nomor Sertifikat : ALSJKFLD</p>
+                    <p class="card-text">Guna mensosialisasikan bisnis ikan secara keseluruhan, P2MKP Graha Mina Mandiri siap melatih dan membina calon-calon wirausahawan baru untuk terjun dalam bidang usaha perikanan.</p><p class="card-text"> Ternyata usaha dalam bidang ini mempunyai prospek yang sangat menjanjikan, seiring dengan tingginya kebutuhan masyarakat akan produk berbasis bahan baku ikan.</p>
                   </div>
                 </div>
               </div>
@@ -52,28 +51,94 @@
                                 <tr>
                                     <th>Pelatihan</th>
                                     <th>Durasi Pelatihan</th>
-                                    <th>Minimal Orang</th>
+                                    <th>Maksimal Peserta Pergroup</th>
                                     <th>Biaya</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>Pembenihan Ikan Patin</td>
-                                    <td><i class="fa fa-clock-o"></i> 4 hari</td>
-                                    <td><i class="fa fa-users"></i> 5 Orang</td>
-                                    <td>Rp100.000,- / Net</td>
+                                <tr style="background-color: #dbdde0">
+                                    <td colspan="4"><b>Pelatihan Olahan Ikan</b></td>
                                 </tr>
                                 <tr>
-                                    <td>Pembuatan Pakan Ikan</td>
-                                    <td><i class="fa fa-clock-o"></i> 5 hari</td>
+                                    <td>Pelatihan Pembuatan Nugget Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
                                     <td><i class="fa fa-users"></i> 4 Orang</td>
-                                    <td>Rp100.000,- / Net</td>
+                                    <td>Rp1.250.000,- / Group</td>
                                 </tr>
                                 <tr>
-                                    <td>Budidaya Ikan</td>
-                                    <td><i class="fa fa-clock-o"></i> 10 hari</td>
-                                    <td><i class="fa fa-users"></i> 10 Orang</td>
-                                    <td>Rp100.000,- / Net</td>
+                                    <td>Pelatihan Batagor Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Pembuatan Bakso Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Abon Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Fillet Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Ikan Asin</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Kerupuk Kulit Ikan</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.250.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4" style="background-color: #dbdde0;"><b>Pelatihan Pembenihan Ikan</b></td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Pembenihan Ikan Patin</td>
+                                    <td><i class="fa fa-clock-o"></i> 6 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp8.000.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Pembenihan Ikan Lele</td>
+                                    <td><i class="fa fa-clock-o"></i> 6 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp8.000.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4" style="background-color: #dbdde0;"><b>Pelatihan Pembuatan Pakan Ikan</b></td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Artificial Feed</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.500.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4" style="background-color: #dbdde0;"><b>Pelatihan Budidaya Ikan</b></td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Budidaya Ikan Patin</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.500.000,- / Group</td>
+                                </tr>
+                                <tr>
+                                    <td>Pelatihan Budidaya Ikan Lele</td>
+                                    <td><i class="fa fa-clock-o"></i> 1 hari</td>
+                                    <td><i class="fa fa-users"></i> 4 Orang</td>
+                                    <td>Rp1.500.000,- / Group</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -83,8 +148,31 @@
               <div class="col-md-12 col-lg-4">
                 <div class="card mb-4">
                   <div class="card-body">
-                    <h4 class="card-title">Pengemasan</h4>
-                    <p class="card-text">Pengemasan dilakukan dengan ..... He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <h4 class="card-title">Info</h4>
+                    <p class="card-text">Pelatihan ini telah mendapatkan penghargaan Adi Bakti Mina Bahari dalam kategori P2MKP berkinerja terbaik se Indonesia 2015.</p>
+                  </div>
+                </div>
+
+                <div class="card mb-4">
+                  <div class="card-body">
+                    <h4 class="card-title">Keterangan</h4>
+                    <p class="card-text">
+                      <ul>
+                        <li>1 grup terdiri atas 4 orang dan berlaku kelipatan.</li>
+                        <li>Dalam satu hari bisa mejalankan 2 jenis pelatihan.</li>
+                        <li>Jika pelatihan melebihi waktu yang ditentukan, akan tetap dilaksanakan hingga selesai.</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-12 col-lg-4">
+                <div class="card mb-4">
+                  <img class="card-img-top" src="{{url('')}}/images/patin1.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h4 class="card-title">Pelatihan Olahan Ikan</h4>
+                    <p class="card-text">Pelatihan ini bertujuan untuk ....  He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>
               </div>
@@ -114,16 +202,6 @@
                   <img class="card-img-top" src="{{url('')}}/images/patin1.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">Pelatihan Budidaya Ikan</h4>
-                    <p class="card-text">Pelatihan ini bertujuan untuk ....  He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-12 col-lg-4">
-                <div class="card mb-4">
-                  <img class="card-img-top" src="{{url('')}}/images/patin1.jpg" alt="Card image cap">
-                  <div class="card-body">
-                    <h4 class="card-title">Pelatihan Olahan Ikan</h4>
                     <p class="card-text">Pelatihan ini bertujuan untuk ....  He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>

@@ -30,7 +30,7 @@
               
               <div class="col-md-12 col-lg-8">
                 <div class="card mb-4">
-                  <img class="card-img" src="{{url('')}}/images/crop/fish_pellets_crop.jpg" alt="Card image cap">
+                  <img class="card-img" src="{{url('')}}/images/pakan_ikan.jpg" alt="Card image cap">
                 </div>
               </div>
 
@@ -38,9 +38,7 @@
                 <div class="card mb-4">
                   <div class="card-body">
                     <h4 class="card-title">Produksi Pakan Ikan Patin</h4>
-                    <p class="card-text">Produksi pakan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi pakan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                    <p class="card-text">Produksi pakan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Graha Feed Fish memberikan solusi terhadap tingginya harga pakan komersial yang beredar di pasaran. Pakan yang diproduksi ini terjangkau oleh petani, yang menyebabkan efisien dalam usaha budidaya patin.</p>
                   </div>
                 </div>
               </div>
@@ -50,7 +48,7 @@
                         <table class="table table-responsive-md">
                             <thead>
                                 <tr>
-                                    <th>Ukuran</th>
+                                    <th>Diameter</th>
                                     <th>Bentuk</th>
                                     <th>Jenis</th>
                                     <th>Harga</th>
@@ -58,21 +56,15 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>1 MM</td>
-                                    <td>Bola</td>
-                                    <td><i class="fa fa-life-ring"></i> Mengapung</td>
-                                    <td>Rp100.000,- / KG</td>
-                                </tr>
-                                <tr>
-                                    <td>1 CM</td>
+                                    <td>4 MM</td>
                                     <td>Silinder</td>
                                     <td><i class="fa fa-life-ring"></i> Mengapung</td>
                                     <td>Rp100.000,- / KG</td>
                                 </tr>
                                 <tr>
-                                    <td>4 CM</td>
+                                    <td>6 MM</td>
                                     <td>Silinder</td>
-                                    <td><i class="fa fa-anchor"></i> Tenggelam</td>
+                                    <td><i class="fa fa-life-ring"></i> Mengapung</td>
                                     <td>Rp100.000,- / KG</td>
                                 </tr>
                             </tbody>
@@ -91,9 +83,9 @@
 
               <div class="col-md-12 col-lg-4">
                 <div class="card mb-4">
-                  <img class="card-img-top" src="{{url('')}}/images/crop/keramba_crop.jpg" alt="Card image cap">
+                  <img class="card-img-top" src="{{url('')}}/images/pakan_ikan_tangan.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Pelet Ukuran 1 MM</h4>
+                    <h4 class="card-title">Pelet Diameter 4 MM</h4>
                     <p class="card-text">Cocok untuk ikan berumur ..... dengan ukuran ....  He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>
@@ -101,20 +93,10 @@
 
               <div class="col-md-12 col-lg-4">
                 <div class="card mb-4">
-                  <img class="card-img-top" src="{{url('')}}/images/crop/ikan_olahan_crop.jpg" alt="Card image cap">
+                  <img class="card-img-top" src="{{url('')}}/images/pakan_ikan_tangan.jpg" alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Pelet Ukuran 1 CM</h4>
+                    <h4 class="card-title">Pelet Ukuran 6 MM</h4>
                     <p class="card-text">Cocok untuk ikan berumur ....... He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-12 col-lg-4">
-                <div class="card mb-4">
-                  <img class="card-img-top" src="{{url('')}}/images/crop/training_center_crop.jpg" alt="Card image cap">
-                  <div class="card-body">
-                    <h4 class="card-title">Pelet Ukuran 4 CM</h4>
-                    <p class="card-text">Cocok untuk ikan berumur .... He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
                   </div>
                 </div>
               </div>

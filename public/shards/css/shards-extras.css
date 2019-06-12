@@ -2,9 +2,16 @@
   position: relative;
   height: 100vh;
   min-height: 700px;
+  background: url("/images/base/kolam.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.shards-landing-main-page .welcome {
+  position: relative;
+  height: 100vh;
+  min-height: 700px;
   background: url("/images/aerial2.jpg") no-repeat center center fixed;
   background-size: cover;
-  /* margin-bottom: 30px; */
 }
 
 .shards-landing-page--1 .welcome2 {
@@ -13,7 +20,6 @@
   min-height: 700px;
   background: url("/images/stock_ikan_2.jpg") no-repeat center center fixed;
   background-size: cover;
-  /* margin-bottom: 30px; */
 }
 
 .shards-landing-page--1 .welcome3 {
@@ -22,7 +28,6 @@
   min-height: 700px;
   background: url("/images/stock_ikan_6.jpg") no-repeat center center fixed;
   background-size: cover;
-  /* margin-bottom: 30px; */
 }
 
 .shards-landing-page--1 .welcome:before {
@@ -33,7 +38,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: .3;
+  opacity: .5;
   background: #06c0ff;
 }
 

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Kampung Patin</title>
+        <title>Graha Pratama Fish - Usaha Perikanan Patin Terpadu</title>
         <link rel="icon" type="image/png" href="{{url('')}}/images/tab-logo.png">
         <meta name="description" content="A demo landing page for agencies or product oriented businesses built using Shards, a free, modern and lightweight UI toolkit based on Bootstrap 4.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,7 +49,7 @@
                   <img class="card-img-top" src="{{url('')}}/images/crop/salmon_eggs_crop.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">UPR. Graha Pratama Fish</h4>
-                    <p class="card-text">Pembenihan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Unit Pembenihan Rakyat Graha Pratama Fish merupakan usaha yang pertama pada grup usaha ini. Didirikan sejak tahun 2002 dan kini terus berkembang menjadi sebuah pembenihan yang tangguh dan bersertifikasi <b>CPIB (Cara Pembenihan Ikan Yang Baik)</b> yang berpredikat <b><i>excellent</i></b> (sempurna).</p>
                   </div>
                 </div>
               </div>
@@ -59,7 +59,7 @@
                   <img class="card-img-top" src="{{url('')}}/images/crop/fish_pellets_crop.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">Graha Feed Fish</h4>
-                    <p class="card-text">Pakan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Graha Feed Fish memberikan solusi terhadap tingginya harga pakan komersial yang beredar di pasaran. Pakan yang diproduksi ini terjangkau oleh petani, yang menyebabkan efisien dalam usaha budidaya patin.</p>
                   </div>
                 </div>
               </div>
@@ -69,7 +69,7 @@
                   <img class="card-img-top" src="{{url('')}}/images/crop/keramba_crop.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">Graha Fish Farm</h4>
-                    <p class="card-text">Budidaya Ikan. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Graha Fish Farm memiliki areal budidaya seluas 8 hektar. Terdiri atas 40 buah kolam ikan teknis dan bersertifikasi <b>CBIB (Cara Budidaya Ikan Yang Baik).</b></p>
                   </div>
                 </div>
               </div>
@@ -79,7 +79,7 @@
                   <img class="card-img-top" src="{{url('')}}/images/crop/ikan_olahan_crop.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">Negeri Patin Food</h4>
-                    <p class="card-text">Olahan ikan patin. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Saat ini patin telah menjadi salah satu primadona produksi perikanan. Berbagai produk olahan berbahan baku patin menjadi pilihan yang sangat menarik sekali. Ini disebabkan oleh rasanya yang enak, bernilai gizi tinggi, serta harga yang terjangkau. Sehingga dapat bersaing dengan produk makanan olahan lainnya.</p>
                   </div>
                 </div>
               </div>
@@ -89,7 +89,7 @@
                   <img class="card-img-top" src="{{url('')}}/images/crop/training_center_crop.jpg" alt="Card image cap">
                   <div class="card-body">
                     <h4 class="card-title">P2MKP - Graha Mina Mandiri</h4>
-                    <p class="card-text">Pusat pelatihan perikanan. He seems sinking under the evidence could not only grieve and a visit. The father is to bless and placed in his length hid...</p>
+                    <p class="card-text">Guna mensosialisasikan bisnis ikan secara keseluruhan, P2MKP Graha Mina Mandiri siap melatih dan membina calon-calon wirausahawan baru untuk terjun dalam bidang usaha perikanan.</p>
                   </div>
                 </div>
               </div>
@@ -143,7 +143,7 @@
                     <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
                         <img src="{{url('')}}/images/garuda.jpeg" class="w-100" alt="Testimonial Avatar" />
                     </div>
-                    <h5 class="mb-1">CV Horeca Tiga Dara</h5>
+                    <h5 class="mb-1">CV Careca Tiga Dara</h5>
                     <p>Penyedia Fish Fillet untuk Hotel Pangeran, Hotel Grand Zuri dan Hotel Jatra</p>
                 </div>
 
@@ -159,6 +159,37 @@
           </div>
       </div>
       <!-- / Partner Section -->
+
+      <!-- Instansi Section -->
+      <div class="testimonials section py-4" style="background-color: #d9d9db;">
+          <h3 class="section-title text-center m-5">Instansi Pembina</h3>
+          <div class="container py-5">
+            <div class="row">
+
+                <div class="col-md-4 testimonial text-center">
+                    <h5 class="mb-1">Dinas Perikanan Kabupaten Kampar</h5>
+                    <p>Pelindung</p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <h5 class="mb-1">Kementerian Kelautan dan Perikanan</h5>
+                    <p>Pelindung</p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <h5 class="mb-1">Kementerian Perindustrian dan Perdagangan</h5>
+                    <p>Pelindung</p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <h5 class="mb-1">Kementerian Pendidikan dan Kebudayaan</h5>
+                    <p>Pelindung</p>
+                </div>
+
+            </div>
+          </div>
+      </div>
+      <!-- / Instansi Section -->
 
       <!-- Welcome Section -->
       <div class="welcome3 d-flex justify-content-center flex-column">
