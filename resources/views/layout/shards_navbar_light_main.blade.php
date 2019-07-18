@@ -1,17 +1,17 @@
 <!-- Navigation -->
           <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0">
-            <a class="navbar-brand" href="#">
+            <!-- <a class="navbar-brand" href="#"> -->
               <!-- <img src="{{url('')}}/images/logo_tulisan.PNG" class="mr-2" style="height: 3em;" alt="Shards - Agency Landing Page"> -->
-              ABCDEF
+              <!-- ABCDEF -->
   
-            </a>
+            <!-- </a> -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="{{url('')}}/index2-landing">Beranda <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="{{url('')}}/index">Beranda <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle text-white" href="#" id="navbar_profil_perusahaan" data-toggle="dropdown" aria-haspopup="true">Profil Perusahaan</a>

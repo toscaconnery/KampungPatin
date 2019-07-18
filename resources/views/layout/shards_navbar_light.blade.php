@@ -10,7 +10,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="{{url('')}}/index2-landing">Beranda <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="{{url('')}}/index">Beranda <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbar_profil_perusahaan" data-toggle="dropdown" aria-haspopup="true">Profil Perusahaan</a>

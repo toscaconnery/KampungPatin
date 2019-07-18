@@ -8,7 +8,7 @@
     <div class="collapse navbar-collapse mr-auto" id="navbarNavDropdown-2">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="{{url('')}}/index2-landing">Beranda
+          <a class="nav-link" href="{{url('')}}/index">Beranda
             <span class="sr-only">(current)</span>
           </a>
         </li>
@@ -24,7 +24,7 @@
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('')}}/index2-landing#daftar_produk">Katalog Produk</a>
+          <a class="nav-link" href="{{url('')}}/index#daftar_produk">Katalog Produk</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Blog</a>

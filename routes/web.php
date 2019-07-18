@@ -12,9 +12,9 @@
 |
 */
 
-Route::get('/', 'SiteController@get_index');
-Route::get('/index', 'SiteController@get_index');
-Route::get('/home', 'SiteController@get_index');
+Route::get('/', 'SiteController@index2_landing');
+Route::get('/index', 'SiteController@index2_landing');
+Route::get('/home', 'SiteController@index2_landing');
 
 Route::get('/produk/{jenis_produk?}', 'ProductController@produk');
 
@@ -42,8 +42,8 @@ Route::get('/faq', 'FaqController@faq_index');
 
 
 ///// NEW
-Route::get('/index2', 'SiteController@index2');
-Route::get('/index2-landing', 'SiteController@index2_landing');
+// Route::get('/index2', 'SiteController@index2');
+// Route::get('/index', 'SiteController@index2_landing');
 Route::get('/sejarah2', 'SiteController@sejarah2');
 Route::get('/penghargaan2', 'SiteController@penghargaan2');
 Route::get('/visi-misi2', 'SiteController@visi_misi2');
@@ -55,3 +55,6 @@ Route::get('/produk-2', 'SiteController@produk_2');
 Route::get('/produk-3', 'SiteController@produk_3');
 Route::get('/produk-4', 'SiteController@produk_4');
 Route::get('/produk-5', 'SiteController@produk_5');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
