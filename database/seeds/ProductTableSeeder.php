@@ -12,114 +12,132 @@ class ProductTableSeeder extends Seeder
     public function run()
     {
     	//Product 1
-        \App\Models\Product1::create([
-	        'nama'  	=> 'Produksi Benih Patin',
+        \App\Models\Produk::create([
+			'nama'  	=> 'Produksi Benih Patin',
+			'jenis'		=> 'product 1',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi benih patin dengan berbagai ukuran.',
 		]);
 
         // Product 2
-		\App\Models\Product2::create([
-	        'nama'  	=> 'Produksi Pakan Ikan Patin',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Pakan Ikan Patin',
+			'jenis'		=> 'product 2',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi pakan ikan patin dengan berbagai ukuran.',
 		]);
 
 		// Product 3
-		\App\Models\Product3::create([
-	        'nama'  	=> 'Produksi Ikan Patin Segar',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Ikan Patin Segar',
+			'jenis'		=> 'product 3',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi daging ikan patin patin segar langsung dari kolam.',
 		]);
 
 		// Product 4
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Nugget Ikan Stick Original',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Nugget Ikan Stick Original',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi nugget ikan stick original dari ikan patin.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Nugget Ikan Coin Rasa Sayur',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Nugget Ikan Coin Rasa Sayur',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi nugget ikan patin berbentuk coin dengan rasa sayuran.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Kaki Naga Ikan',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Kaki Naga Ikan',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi kaki naga ikan dari ikan patin.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Bakso Ikan Original Rebus',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Bakso Ikan Original Rebus',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi bakso ikan menggunakan daging ikan patin.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Bakso Ikan Goreng',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Bakso Ikan Goreng',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi bakso ikan patin untuk digoreng.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Batagor Ikan (Bakso Tahu Goreng)',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Batagor Ikan (Bakso Tahu Goreng)',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi bakso ikan patin (bakso tahu goreng).',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Fillet Ikan',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Fillet Ikan',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi fillet ikan patin.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Patin Potong Segar Beku',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Patin Potong Segar Beku',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi patin potong segar beku.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Pudung Ikan (Ikan Fillet Asin Patin)',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Pudung Ikan (Ikan Fillet Asin Patin)',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi pudung ikan (ikan fillet asin patin).',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Ikan Asap (Salai Patin)',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Ikan Asap (Salai Patin)',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi ikan patin asap (ikan patin salai).',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Abon Ikan Patin',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Abon Ikan Patin',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi abon ikan patin.',
 		]);
 
-		\App\Models\Product4::create([
-	        'nama'  	=> 'Produksi Kerupuk Kulit Ikan',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Produksi Kerupuk Kulit Ikan',
+			'jenis'		=> 'product 4',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Produksi kerupuk kulit ikan patin.',
 		]);
 
 		// Product 5
-		\App\Models\Product5::create([
-	        'nama'  	=> 'Pelatihan Pembenihan Ikan Patin',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Pelatihan Pembenihan Ikan Patin',
+			'jenis'		=> 'product 5',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Pelatihan pembenihan ikan patin.',
 		]);
 
-		\App\Models\Product5::create([
-	        'nama'  	=> 'Pelatihan Pembuatan Pakan Ikan',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Pelatihan Pembuatan Pakan Ikan',
+			'jenis'		=> 'product 5',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Pelatihan pembuatan pakan ikan.',
 		]);
 
-		\App\Models\Product5::create([
-	        'nama'  	=> 'Pelatihan Budidaya Ikan',
+		\App\Models\Produk::create([
+			'nama'  	=> 'Pelatihan Budidaya Ikan',
+			'jenis'		=> 'product 5',
 	        'harga' 	=> 0,
 	        'deskripsi' => 'Pelatihan budidaya ikan.',
 		]);
